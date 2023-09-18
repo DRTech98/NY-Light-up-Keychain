@@ -2,7 +2,7 @@
 A keychain powered by a coin cell battery that can either be placed on car keys or a Christmas tree.
 
 
-A simple yet interesting project involving a 3.3V coin cell battery with a boost converter and LED driver to act as a constant current source. The parts selected are all surface-mounted, and assembly is done on both sides of the PCB. A case was designed from freelance on Fiverr, and the battery can last up to 4 hours and 32 minutes on continuous power. 
+A simple yet interesting project involving a 3.3V coin cell battery with a boost converter and LED driver to act as a constant current source. The parts selected are all surface-mount, and assembly is done on both sides of the PCB. A case was designed from freelance on Fiverr, and the battery can last up to 4 hours and 32 minutes on continuous power. 
 
 The battery has 225mAH of current capacity, with each LED branch taking 5.5mA of current, with 9 branches in total resulting in approximately 50mA of current consumption.
 
